@@ -17,31 +17,31 @@
 
 <h2 style="color:#5E6F86;">💻 Main skills</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-97A5B7?style=for-the-badge&logo=javascript&labelColor=97A5B7)
-![Java](https://img.shields.io/badge/-Java-97A5B7?style=for-the-badge&logo=openjdk&labelColor=97A5B7)
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-97A5B7?style=for-the-badge&logo=java&labelColor=97A5B7)
-![CSS3](https://img.shields.io/badge/-CSS3-97A5B7?style=for-the-badge&logo=css3&labelColor=97A5B7)
-![Redes](https://img.shields.io/badge/-Redes%20de%20Computadores-97A5B7?style=for-the-badge&logo=cisco&labelColor=97A5B7)
-![Windows](https://img.shields.io/badge/-Windows-97A5B7?style=for-the-badge&logo=windows&labelColor=97A5B7)
-![Linux](https://img.shields.io/badge/-Linux-97A5B7?style=for-the-badge&logo=linux&labelColor=97A5B7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)
+![Java Swing](https://img.shields.io/badge/-Java%20Swing-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)
+![Redes](https://img.shields.io/badge/-Redes%20de%20Computadores-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)
 
 ---
 
 <h2 style="color:#5E6F86;">🛠 Tools</h2>
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-97A5B7?style=for-the-badge&logo=visualstudio&labelColor=97A5B7)
-![VS Code](https://img.shields.io/badge/-VS%20Code-97A5B7?style=for-the-badge&logo=visualstudiocode&labelColor=97A5B7)
-![Git](https://img.shields.io/badge/-Git-97A5B7?style=for-the-badge&logo=git&labelColor=97A5B7)
-![GitHub](https://img.shields.io/badge/-GitHub-97A5B7?style=for-the-badge&logo=github&labelColor=97A5B7)
-![Linux](https://img.shields.io/badge/-Linux-97A5B7?style=for-the-badge&logo=linux&labelColor=97A5B7)
-![Windows](https://img.shields.io/badge/-Windows-97A5B7?style=for-the-badge&logo=windows&labelColor=97A5B7)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
 
 ---
 
 <h2 style="color:#5E6F86;">📚 Studying at the moment</h2>
 
-![Java](https://img.shields.io/badge/-Java-97A5B7?style=for-the-badge&logo=openjdk&labelColor=97A5B7)
-![MySQL](https://img.shields.io/badge/-MySQL-97A5B7?style=for-the-badge&logo=mysql&labelColor=97A5B7)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 
 ---
 
@@ -59,8 +59,14 @@
 <h2 style="color:#5E6F86;">📫 Contato</h2>
 
 <p>
-  <a href="https://github.com/mathewsph2">
-    <img src="https://img.shields.io/badge/GitHub-97A5B7?style=for-the-badge&logo=github&labelColor=97A5B7">
+  <a href="https://github.com/mathewsph2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
+  </a>
+  <a href="https://www.linkedin.com/in/mathewsph/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117">
+  </a>
+  <a href="https://www.instagram.com/mathews.ph/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117">
   </a>
 </p>
 
