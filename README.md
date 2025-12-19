@@ -41,6 +41,7 @@
 <h2 style="color:#5E6F86;">📚 Studying at the moment</h2>
 
 ![Java](https://img.shields.io/badge/-Java-97A5B7?style=for-the-badge&logo=openjdk&labelColor=97A5B7)
+![MySQL](https://img.shields.io/badge/-MySQL-97A5B7?style=for-the-badge&logo=mysql&labelColor=97A5B7)
 
 ---
 
