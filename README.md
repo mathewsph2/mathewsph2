@@ -9,9 +9,9 @@
 
 <h1 align="center" style="color:#5E6F86;">Matheus Ribeiro</h1>
 
-<p align="center" style="color:#97A5B7;">
+<h2 align="center" style="color:#97A5B7;">
   Redes de Computadores & Análise e Desenvolvimento de Sistemas
-</p>
+</h2>
 
 ---
 
