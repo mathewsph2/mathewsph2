@@ -10,7 +10,7 @@
 
 
 <h2 align="center" style="color:#97A5B7;">
-  Redes de Computadores & Análise e Desenvolvimento de Sistemas
+  Estudante de Análise e Desenvolvimento de Sistemas | Especialista em Redes de Computadores pela UFJF
 </h2>
 
 ---
@@ -45,14 +45,17 @@
 
 ---
 
-<h2 style="color:#5E6F86;">📍 Sobre mim</h2>
+<h2 style="color:#5E6F86;">🎓 Sobre mim</h2>
 
-<ul style="color:#97A5B7;">
-  <li>📍 Juiz de Fora - MG</li>
-  <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
-  <li>🌐 Interesse em Back-end, Front-end e Infraestrutura</li>
-  <li>🐧 Entusiasta de Linux e Redes</li>
-</ul>
+<p>
+
+Sempre fui movido pela curiosidade de entender como as coisas funcionam — primeiro na infraestrutura, agora no desenvolvimento de software. Minha trajetória começou na área de Redes, onde me formei, me especializei e desenvolvi uma base técnica robusta sobre comunicação de dados, arquitetura de redes, protocolos e infraestrutura. Essa formação acadêmica, somada à experiência prática em telecomunicações, moldou minha capacidade analítica e meu olhar detalhado para problemas complexos.
+
+Depois de anos atuando com redes, suporte e telecomunicações, encontrei no desenvolvimento de software a possibilidade de criar soluções, automatizar processos e impactar pessoas de forma ainda mais direta. Hoje sou graduando em Análise e Desenvolvimento de Sistemas e venho construindo uma transição sólida para a área de desenvolvimento.
+
+Minha vivência profissional e acadêmica me proporcionou uma visão completa: entendo desde a infraestrutura que sustenta os sistemas até a lógica que os faz funcionar.
+
+</p>
 
 ---
 
