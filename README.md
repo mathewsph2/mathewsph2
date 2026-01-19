@@ -47,7 +47,7 @@ Atuo há mais de 10 anos na área de tecnologia, com sólida experiência em inf
   </a>
 </p>
 
-<p align="center" style="color:#5E6F86;"> "Transformando conhecimento em soluções e curiosidade em evolução contínua." </p>
+<h3 align="center" style="color:#5E6F86;"> "Transformando conhecimento em soluções e curiosidade em evolução contínua." </h3>
 
 <!-- FOOTER WAVE --> 
 <div align="center"> <svg viewBox="0 0 1440 320"> <path fill="#C7D3E0" fill-opacity="1" d="M0,224L48,218.7C96,213,192,203,288,192C384,181,480,171,576,176C672,181,768,203,864,213.3C960,224,1056,224,1152,213.3C1248,203,1344,181,1392,170.7L1440,160L1440,320L0,320Z"> </path> </svg> 
