@@ -15,9 +15,7 @@
 
 
 <h2 align="center" style="color:#97A5B7;">
-  Estudante de Análise e Desenvolvimento de Sistemas 
-  
-  Especialista em Redes de Computadores pela UFJF
+ Desenvolvedor Full Stack | Especialista em Redes de Computadores (UFJF) | Foco em Java, APIs, SQL e Inteligência Artificial como catalisadora de performance
 </h2>
 
 
