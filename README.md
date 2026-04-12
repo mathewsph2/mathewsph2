@@ -23,7 +23,7 @@
 
 <p>
 
-Desenvolvedor Backend  com forte base em Java, Spring Boot, APIs REST e boas práticas de arquitetura. Tenho experiência prática comprovada por meio de projetos completos desenvolvidos em bootcamps, formações e desafios técnicos, aplicando padrões de projeto, testes automatizados e versionamento de banco com Flyway.
+Desenvolvedor Full Stack  com forte base em Java, Spring Boot, APIs REST e boas práticas de arquitetura. Tenho experiência prática comprovada por meio de projetos completos desenvolvidos em bootcamps, formações e desafios técnicos.
 
 Sólida experiência em infraestrutura, redes e suporte técnico, o que me dá maturidade para lidar com ambientes produtivos, troubleshooting e qualidade de entrega.
 
