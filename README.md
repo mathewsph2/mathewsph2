@@ -10,13 +10,13 @@
 
 
 <h1>
- 🧑🏽‍💻 Matheus P Ribeiro
+ 🧑🏽‍💻 Matheus Pinheiro Ribeiro
 </h2>
 
 
-<h2 align="center" style="color:#97A5B7;">
+<h3 align="center" style="color:#97A5B7;">
  Desenvolvedor Full Stack | Especialista em Redes de Computadores (UFJF) | Foco em Java, APIs, SQL e Inteligência Artificial como catalisadora de performance
-</h2>
+</h3>
 
 
 <h2 style="color:#5E6F86;">🎓 Sobre mim</h2>
