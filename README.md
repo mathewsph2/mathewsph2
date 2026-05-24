@@ -14,6 +14,10 @@
 </h2>
 
 
+<img width="1536" height="1024" alt="Copilot_20260524_204401" src="https://github.com/user-attachments/assets/8ac35922-c4b2-4aea-a20a-35e41052ad92" />
+
+
+
 <h2 style="color:#5E6F86;">🎓 Sobre mim</h2>
 
 <p>
