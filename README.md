@@ -57,6 +57,12 @@ Atuo desde 2021 na **Vero Internet** como Técnico de Telecomunicações, onde t
 
 ## 📌 Projetos em destaque
 
+### 🥗 [NUTRIFIT – Aplicação Web de Nutrição com Spring Boot](https://github.com/mathewsph2/NUTRIFIT_Spring_Boot)
+Aplicação web desenvolvida com Spring Boot para gestão nutricional.
+`Java` · `Spring Boot` · `HTML` · `MVC`
+
+---
+
 ### 🐟 [AQUAVIDA – Plataforma Web para Gestão de Aquicultura](https://github.com/mathewsph2/AQUAVIDA-Plataforma-Web-para-Gestao-de-Aquicultura-Ornamental)
 Sistema web completo em Java EE com arquitetura MVC. Gerencia operações de aquicultura: compra de peixes, alocação em tanques e monitoramento de saúde.
 `Java EE` · `Servlets` · `JSP` · `Hibernate` · `MVC` · `Front Controller Pattern`
