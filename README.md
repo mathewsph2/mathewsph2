@@ -18,7 +18,6 @@ Atuo desde 2021 na **Vero Internet** como Técnico de Telecomunicações, onde t
 
 - 🎯 Foco atual: **Backend Java com Spring Boot e APIs REST**
 - 🌱 Estudando: Spring Security, testes com JUnit/Mockito, Docker
-- 📍 Disponível para oportunidades em Juiz de Fora/MG ou remoto
 
 ---
 
