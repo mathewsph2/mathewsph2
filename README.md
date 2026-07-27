@@ -78,26 +78,14 @@ Aplicação desktop desenvolvida em Java com interface gráfica Swing e persist�
 
 ---
 
-### 🔗 [API REST com Spring Boot e Design Pattern Observer](https://github.com/mathewsph2/API_REST_com_Spring_Boot_e_Observer)
-API RESTful construída com Spring Boot aplicando o padrão de projeto Observer.
-`Java` · `Spring Boot` · `API REST` · `Design Patterns`
+### 📈 [📮 Consumo da API — Academia Digital com Postman](https://github.com/mathewsph2/Formacao-Java-Developer/tree/main/Conhecendo_o_spring_framework/postman)
+Este documento demonstra, endpoint por endpoint, como consumir a API RESTful Academia Digital usando o Postman: a rota, o verbo HTTP, o corpo da requisição (quando houver) e o retorno HTTP esperado, com a imagem de cada requisição.
+
+`API RESTful` · `Postman` 
+
 
 ---
 
-### ✅ [TaskBoard com Flyway Migrations](https://github.com/mathewsph2/TaskBoard_com_Flyway_Migrations)
-Board de tarefas com controle de versionamento de banco de dados via Flyway.
-`Java` · `Spring Boot` · `Flyway` · `MySQL`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mathewsph2&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsph2&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
-
----
 
 ## 🎓 Formação & Certificações
 
