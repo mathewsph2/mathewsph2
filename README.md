@@ -57,6 +57,13 @@ Atuo desde 2021 na **Vero Internet** como Técnico de Telecomunicações, onde t
 
 ## 📌 Projetos em destaque
 
+
+### 🥗 [NUTRIFIT – Sistema de Acompanhamento Nutricional e Treinos](https://github.com/mathewsph2/NUTRIFIT_Spring_Boot)
+Sistema web completo em Java EE com arquitetura MVC. Gerencia operações de aquicultura: compra de peixes, alocação em tanques e monitoramento de saúde.
+`Spring Boot` · `Spring Security` · `Spring Web MVC` · `Spring Data JPA` · `Thymeleaf` · `H2 Database`· `MySQL` · `Lombok` · `Maven`
+
+---
+
 ### 🐟 [AQUAVIDA – Plataforma Web para Gestão de Aquicultura](https://github.com/mathewsph2/AQUAVIDA-Plataforma-Web-para-Gestao-de-Aquicultura-Ornamental)
 Sistema web completo em Java EE com arquitetura MVC. Gerencia operações de aquicultura: compra de peixes, alocação em tanques e monitoramento de saúde.
 `Java EE` · `Servlets` · `JSP` · `Hibernate` · `MVC` · `Front Controller Pattern`
