@@ -17,7 +17,7 @@ Profissional com base sólida em infraestrutura de redes, suporte técnico e tro
 Atuo desde 2021 na **Vero Internet** como Técnico de Telecomunicações, onde também exerci liderança técnica como supervisor interino. Em paralelo, venho construindo minha base em Java, Spring Boot e boas práticas de desenvolvimento por meio de bootcamps, projetos acadêmicos e projetos próprios.
 
 - 🎯 Foco atual: **Backend Java com Spring Boot e APIs REST**
-- 🌱 Estudando: Spring Security, testes com JUnit/Mockito, Docker
+- 🌱 Estudando: Spring Security, testes com JUnit/Mockito
 
 ---
 
