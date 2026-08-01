@@ -103,8 +103,8 @@ Você fala "Gastei 50 reais no Starbucks agora" e a API transcreve o áudio, ent
 ## 🎓 Formação & Certificações
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** – Instituto Vianna Júnior *(em andamento, 2026)*
-- 🎓 **Pós-Graduação em Redes de Computadores** – UFJF *(2015)*
-- 🎓 **Tecnólogo em Redes de Computadores** – UNIVIÇOSA *(2013)*
+- 🎓 **Pós-Graduação em Redes de Computadores** - UFJF
+- 🎓 **Tecnólogo em Redes de Computadores** - UNIVIÇOSA
 
 **Bootcamps:**
 - ☕ Tech Bradesco – Java & QA Developer *(Java, Spring Boot, JUnit, BDD, API REST)*
