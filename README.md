@@ -78,13 +78,26 @@ Aplicação desktop desenvolvida em Java com interface gráfica Swing e persist�
 
 ---
 
-### 📈 [📮 Consumo da API — Academia Digital com Postman](https://github.com/mathewsph2/Formacao-Java-Developer/tree/main/Conhecendo_o_spring_framework/postman)
+### 📮 [Consumo de uma API com Postman — Academia Digital](https://github.com/mathewsph2/Formacao-Java-Developer/tree/main/Conhecendo_o_spring_framework/postman)
 Este documento demonstra, endpoint por endpoint, como consumir a API RESTful Academia Digital usando o Postman: a rota, o verbo HTTP, o corpo da requisição (quando houver) e o retorno HTTP esperado, com a imagem de cada requisição.
 
 `API RESTful` · `Postman` 
 
+---
+
+### 🤖 [Budgeting — API Inteligente com Reconhecimento de Fala](https://github.com/mathewsph2/Globant---Java-Spring-Boot-AI-Developer/tree/main/budgeting)
+
+
+Assistente financeiro pessoal comandado por voz, construído com Spring Boot 4 e Spring AI 2.
+
+Você fala "Gastei 50 reais no Starbucks agora" e a API transcreve o áudio, entende a intenção, executa uma função Java real que persiste a transação no banco, e responde falando.
+
+
+`Spring AI` · `OpenAI` · `JUnit 5` · `AssertJ` · `Thymeleaf` · `Mockito`· `Spring Boot` · `Maven` · `H2`
 
 ---
+
+
 
 
 ## 🎓 Formação & Certificações
