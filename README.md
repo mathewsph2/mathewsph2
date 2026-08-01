@@ -107,11 +107,11 @@ Você fala "Gastei 50 reais no Starbucks agora" e a API transcreve o áudio, ent
 - 🎓 **Tecnólogo em Redes de Computadores** - UNIVIÇOSA
 
 **Bootcamps:**
+- 🤖 GLOBANT – Java & Spring Boot AI Developer *(Spring AI, OpenAI, Mockito)*
 - ☕ Tech Bradesco – Java & QA Developer *(Java, Spring Boot, JUnit, BDD, API REST)*
 - ☁️ CI&T – Backend com Java & AWS *(Java, API REST, SQL, AWS)*
 - 🤖 TQI – Modernização com GenAI *(Clean Code, Design Patterns, AWS Lambda)*
 - 🔐 Riachuelo – Cibersegurança *(Linux, Segurança da Informação)*
-
 ---
 
 ## 📫 Contato
