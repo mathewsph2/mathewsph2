@@ -1,12 +1,8 @@
-<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-<p align="center">
-  <b>Desenvolvedor Backend Java</b>  · Técnico de Suporte em Redes com +9 anos de experiência
-</p>
 
-<p align="center">
-  Juiz de Fora, MG · Graduando em Análise e Desenvolvimento de Sistemas (2026)
-</p>
+<p align="center"><img width="2688" height="1152" alt="linkedin_cover_2_updated" src="https://github.com/user-attachments/assets/c6b73dab-1a76-41e5-8561-86d3666eb675" />
+
+
 
 ---
 
