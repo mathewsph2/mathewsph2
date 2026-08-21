@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Profissional com base sólida em infraestrutura de redes, suporte técnico e troubleshooting avançado. Essa experiência me deu algo raro para um dev: **capacidade analítica real, leitura de logs, entendimento de redes e comunicação técnica com clientes**.
 
